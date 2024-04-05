@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This add-on allows you to include a .env file to the DDEV configuration
+This add-on allows you to include a .env project root file to your DDEV configuration.
 
 ## Getting Started
 
