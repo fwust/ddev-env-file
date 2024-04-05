@@ -14,6 +14,6 @@ This add-on allows you to include a .env project root file to your DDEV configur
 - Install the add-on:
 
 ```shell
-ddev get fwust/env-file
+ddev get fwust/ddev-env-file
 ddev restart
 ```
